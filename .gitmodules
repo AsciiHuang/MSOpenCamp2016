@@ -1,0 +1,3 @@
+[submodule "Android/MSOpenCamp2016/app/libs/volley"]
+	path = Android/MSOpenCamp2016/app/libs/volley
+	url = https://android.googlesource.com/platform/frameworks/volley
